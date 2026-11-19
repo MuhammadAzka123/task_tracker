@@ -6,10 +6,10 @@
 ## Screenshot Tampilan Aplikasi
 
 ### Tampilan Awal
-<img src="screenshots/Tampilan Awal" width="300">
+<img src="screenshots/Tampilan Awal.png" width="300">
 
 ### Daftar Tugas
-<img src="screenshots/Tampilan Daftar Tugas" width="300">
+<img src="screenshots/Tampilan Daftar Tugas.png" width="300">
 
 ### Tugas Selesai
 <img src="screenshots/Tampilan Tugas Selesai.png" width="300">
