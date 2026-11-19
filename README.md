@@ -6,16 +6,16 @@
 ## Screenshot Tampilan Aplikasi
 
 ### Tampilan Awal
-<img src="screenshots/Tampilan Awal.png" width="300">
+<img src="screenshots/Tampilan_Awal.png" width="300">
 
 ### Daftar Tugas
-<img src="screenshots/Tampilan Daftar Tugas.png" width="300">
+<img src="screenshots/Tampilan_Daftar_Tugas.png" width="300">
 
 ### Tugas Selesai
-<img src="screenshots/Tampilan Tugas Selesai.png" width="300">
+<img src="screenshots/Tampilan_Tugas_Selesai.png" width="300">
 
 ### Daftar Tugas Setelah Dihapus
-<img src="screenshots/Tampilan Daftar Tugas Setelah Dihapus.png" width="300">
+<img src="screenshots/Tampilan_Daftar_Tugas_Setelah_Dihapus.png" width="300">
 
 ## Cara Menjalankan
 
@@ -29,13 +29,13 @@
 
 3. Masuk ke folder project:
 
-   cd mini_task_tracker
+   cd task_tracker
 
 4. Melakukan Perintah Pada Terminal:
 
    flutter pub get
 
-5. Menjalakan aplikasi menggunakan emulator:
+5. Menjalankan aplikasi menggunakan emulator:
 
    flutter run atau Menekan F5 
 
